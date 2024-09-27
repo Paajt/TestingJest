@@ -1,0 +1,19 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "Testing with jest",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "uppercase"
+  ],
+  "author": "Patrik Eriksson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

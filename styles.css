@@ -1,0 +1,19 @@
+/* Style goes here */
+html {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+body {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+ul {
+    list-style: none;
+    font-family:'Times New Roman', Times, serif;
+}
