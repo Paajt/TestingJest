@@ -1,5 +1,5 @@
 //Script goes here
-// 
+//ES6-module style
 import { TextUpperCaseScript } from "./TextUpperCaseScript.js";
 
 // HTML elements:
